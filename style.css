@@ -66,5 +66,15 @@ body {
     background-color: rgb(170, 170, 170);
 }
 
+#work-time {
+    background-color: whitesmoke;
+    color: blue;
+}
+
+#break-time {
+    color: green;
+    background-color: whitesmoke;
+}
+
 
 
